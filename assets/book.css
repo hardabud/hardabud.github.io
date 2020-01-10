@@ -1,6 +1,9 @@
 @font-face {
-  font-family: FFF;
-  src: url(FFFFORWA.woff);
+	font-family: FFF;
+	src: url('Px437_IBM_BIOS.eot');
+	src: local('☺'), url('Px437_IBM_BIOS.woff') format('woff'), url('Px437_IBM_BIOS.ttf') format('truetype'), url('Px437_IBM_BIOS.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
 html, body {
